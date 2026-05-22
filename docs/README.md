@@ -62,7 +62,7 @@ usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT] [--ou
 Sherlock: Find Usernames Across Social Networks (Version 0.16.0)
 
 positional arguments:
-  USERNAMES             One or more usernames to check with social networks. Check similar usernames using {?} (replace to '_', '-', '.').
+  juliestydinger             One or more usernames to check with social networks. Check similar usernames using {?} (replace to '_', '-', '.').
 
 options:
   -h, --help            show this help message and exit
